@@ -1,5 +1,5 @@
 {
-    "name": "tgm/dd",
+    "name": "dd/dd",
     "description": "A simple die and dump implementation",
     "type": "library",
     "license": "MIT",
