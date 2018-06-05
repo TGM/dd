@@ -3,5 +3,24 @@
     "description": "A simple die and dump implementation",
     "type": "library",
     "license": "MIT",
-    "require": {}
+    "authors": [
+        {
+            "name": "TGM",
+            "role": "Developer"
+        }
+    ],
+    "keywords": [
+        "debug",
+        "helper",
+        "helper function",
+        "die and dump"
+    ],
+    "require": {
+        "php": ">=4.0.1"
+    },
+    "autoload": {
+        "files": [
+            "src/dd.php"
+        ]
+    }
 }
